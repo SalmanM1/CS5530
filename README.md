@@ -2,6 +2,31 @@
 
 This repository contains my coursework for CS5530. Each assignment lives in its own folder.
 
+## Assignment 2
+### What's inside:
+- **Problem 1 Used Cars/**  
+  Problem 1 of this assignment.
+  - `notebook/Problem1_Used_Cars.ipynb` - Required Notebook (all cells run already)
+  - `data/raw/used_car_data_raw.csv` - Original Dataset
+  - `data/processed/used_car_data_clean.csv` - Cleaned and processed output
+
+- **Problem 2 Diabetes/**  
+  Problem 2 of this assignment.
+  - `notebook/Problem2_Diabetes.ipynb` - Required Notbook (all cells run already)
+  - `data/raw/diabetes_data_raw.csv` - Original Dataset
+  - `report/findings.md` - Reports of findings
+  - `figures/` - Charts for all three parts:
+    - Part A: Glucose analysis (random sample vs population)
+    - Part B: BMI 98th percentile comparison
+    - Part C: Bootstrap blood pressure analysis
+
+### Notes
+- **Problem 1 (Used Cars):**  
+  - No report folder as there was no explicit report requirement for this problem.
+
+- **Problem 2 (Diabetes):**  
+  - All charts saved to `/figures` folder and report done in `findings.md`.
+
 ## Assignment 1
 ### What’s inside:
 - **notebooks/**  
@@ -36,7 +61,3 @@ This repository contains my coursework for CS5530. Each assignment lives in its 
 1. Open the notebooks in **notebooks/** (e.g., in Google Colab or locally).  
 2. Ensure the datasets in **data/raw/** are present.  
 3. Run top-to-bottom. Outputs (processed CSVs and figures) will appear in the corresponding folders.
-
----
-
-*I’ll add similar sections for future assignments as they’re uploaded.*
